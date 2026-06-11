@@ -7,11 +7,16 @@
 
 ## Skills I'm Building
 - Git and GitHub
--  "Python" , "HTML" javascrip beginer level 
+-  Python
+-  HTML
+-  javascrip beginer level
+-  blogging 
 
 ## Current Projects
 creating New Repository 
 
 ## How to Reach Me
 - Email: jeremaihokumba@gmail.com
+- x (twiter) : x.com/priest_rivers
+- phone no : 254111402112
   
