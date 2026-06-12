@@ -1,7 +1,7 @@
 # Hi, I'm  priest rivers 
 
 ## About Me
-- I'm currently learning political Science at my third year at The University Of Nairobi a student of programing at WECAN academy.
+- I'm a student of programing at WECAN academy.
 - I'm interested in web development, and data science
 - I'm looking to collaborate on beginner-friendly open source projects in computer programing  
 
