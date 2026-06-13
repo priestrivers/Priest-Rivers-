@@ -57,6 +57,7 @@ I am currently learning *web development* and improving my coding skills using `
 3. Become a professional developer
 
 link me up on: https://priestrivers.github.com
+https://x.com/priest_rivers
 
 > No risk No ferari .
 
