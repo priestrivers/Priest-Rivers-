@@ -3,6 +3,7 @@
 ### This Semester ###
 
 I want to become a **skilled** programmer, stay *focused* on my studies, and practice using `git commit`.
+change my mindset about life
 
 
 ### three things i want to learn within three months  ###
